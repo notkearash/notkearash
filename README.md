@@ -13,5 +13,7 @@ Doot doo...!
  {======|_|~~~~~~~~~|
 /oO--000'"`-OO---OO-'
 
-...visit [kearash.io](http://kearash.io) for more :D
+...visit 
 ```
+[kearash.io](http://kearash.io)
+`for more :D`
