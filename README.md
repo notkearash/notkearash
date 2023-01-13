@@ -1,16 +1,17 @@
-### Hi there 👋
+```
+me@notkearashkia:~$ /usr/bin/sl
 
-<!--
-**notkearash/notkearash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Doot doo...!
 
-Here are some ideas to get you started:
+....I'm back u nerdz lel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+       e@@@@@@@@@@@@@@@
+    @@@""""""""""
+   @" ___ ___________
+  II__[w] | [i] [z] |
+ {======|_|~~~~~~~~~|
+/oO--000'"`-OO---OO-'
+
+...visit [kearash.io](http://kearash.io) for more :D
+```
