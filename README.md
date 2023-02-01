@@ -14,4 +14,4 @@ Doot doo...!
 /oO--000'"`-OO---OO-'
 
 ```
-# Visit [kearash.io](http://kearash.io) for more
+Visit [kearash.io](http://kearash.io) for more
