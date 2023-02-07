@@ -1,5 +1,5 @@
 ```
-me@notkearashkia:~$ /usr/bin/sl
+me@notkearash:~$ /usr/bin/sl
 
 Doot doo...!
 
