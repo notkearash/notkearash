@@ -14,4 +14,7 @@ Doot doo...!
 /oO--000'"`-OO---OO-'
 
 ```
+![codewars](https://www.codewars.com/users/notkearash/badges/small)
+
+
 Visit [kearash.io](http://kearash.io) for more
