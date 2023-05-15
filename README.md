@@ -1,20 +1,29 @@
 ```
-me@notkearash:~$ /usr/bin/sl
+[+] Analyzing...
+[####################..........] 69%
+           /:""|
+          |:`66|_ --------------------- FullStack Developer @ Head
+          C`    _)
+           \ ._| 
+            ) /
+           /`\\
+          || |Y|
+          || |#|  --------------------- CyberSec Researcher @ <3
+          || |#|
+          || |#|
+          :| |=:
+          ||_|,|
+          \)))||
+       |~~~`-`~~~|
+       |         | -------------------- Old ThinkPad @ Briefcase
+       |_________|
+       |_________|
+           | ||
+           |_||__
+      jgs  (____)) -------------------- An ArchLinux user ( ͡~ ͜ʖ ͡°) btw
 
-Doot doo...!
-
-....I'm back u nerdz lel
-
-
-       e@@@@@@@@@@@@@@@
-    @@@""""""""""
-   @" ___ ___________
-  II__[w] | [i] [z] |
- {======|_|~~~~~~~~~|
-/oO--000'"`-OO---OO-'
-
+[ RESULTS ] Definetly NotKearash
 ```
 ![codewars](https://www.codewars.com/users/notkearash/badges/small)
-
 
 Visit [kearash.io](http://kearash.io) for more
