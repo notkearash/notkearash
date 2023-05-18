@@ -26,4 +26,6 @@
 ```
 ![codewars](https://www.codewars.com/users/notkearash/badges/small)
 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notkearash&layout=compact&hide=html,css&theme=radical)
+
 Visit [kearash.io](http://kearash.io) for more
